@@ -8,3 +8,5 @@ REQUISITOS:
 	* un servidor web con soporte para php y mysql (al menos por ahora), para linux existe LAMP y para windows WAMP, desconozco una version de Apache para MAC (pero deberia existir)
 	
 	* un navegador web moderno (moderno al 18 de diciembre de 2011) para poder ver correctamente la aplicacion
+
+klausconsine: 18 - DIC - 2011
