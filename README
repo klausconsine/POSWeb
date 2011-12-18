@@ -1,0 +1,10 @@
+POSWeb intenta ser un pequeño sistema de puntos de venta con control de stock.
+
+Al estar basado en HTML se espera una amplia compatibilidad entre computadoras que lo usen.
+
+En algun momento del futuro, espero agregar una version para dispositivos moviles.
+
+REQUISITOS: 
+	* un servidor web con soporte para php y mysql (al menos por ahora), para linux existe LAMP y para windows WAMP, desconozco una version de Apache para MAC (pero deberia existir)
+	
+	* un navegador web moderno (moderno al 18 de diciembre de 2011) para poder ver correctamente la aplicacion
